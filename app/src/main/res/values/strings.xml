@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EUVOTE_LH</string>
+    <string name="find_out"><u>Find out</u></string>
+    <string name="text">Would you rather vote for your country to leave the EU or to remain</string>
+    <string name="howdid">How did your country vote?</string>
+    <string name="share">How Suprising ? Share now</string>
+    <string name="seeother">See other countries</string>
+</resources>
